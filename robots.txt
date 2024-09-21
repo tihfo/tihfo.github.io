@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tihfo.github.io/lfk/sitemap.lfk.gz
